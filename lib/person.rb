@@ -1,4 +1,4 @@
-def Person class
+class Person
 end
 
 marcelo = Person.new
