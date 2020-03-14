@@ -1,7 +1,6 @@
 class Person
 end
 
-marcelo = Person.new
 def talk
   puts "Hello World!"
 end
